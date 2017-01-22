@@ -2,4 +2,7 @@
 +Git is free software distributed under the GPL.
 +Git has a mutable index called stage.
 +Git tracks changes of files.
+branch:dev
+wukegaodeMacBook-Pro:learngit wukegao$ git checkout -b dev
+
 
